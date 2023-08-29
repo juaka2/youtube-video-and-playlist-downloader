@@ -1,0 +1,4 @@
+pytube3
+colorama
+rgbprint
+pygame
